@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692477344080",
+    "project_id": "keepers-95b9d",
+    "storage_bucket": "keepers-95b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692477344080:android:9d00b535b6439ab7291455",
+        "android_client_info": {
+          "package_name": "com.company.keepers_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692477344080-niqtkerbt4uo2v4q7ij2a0rracu6jnh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-qtkUByoKHAR2GJ7mKIAzuWGFalef_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692477344080-niqtkerbt4uo2v4q7ij2a0rracu6jnh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

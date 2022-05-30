@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.company.keepers_test">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Keepers"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Keepers_Test"
+        android:usesCleartextTraffic="true">
+        <!-- 푸쉬 알림 -->
+        <!-- 푸쉬 알림 -->
+        <!-- intro 로고 나오는 부분 -->
+        <activity
+            android:name=".IntroActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Board"
+            android:exported="false" />
+        <activity
+            android:name=".Monitor"
+            android:exported="false" />
+        <activity
+            android:name=".CareList"
+            android:exported="false" />
+        <activity
+            android:name=".RegSuccess"
+            android:exported="false" />
+        <activity
+            android:name=".Care_Reg"
+            android:exported="true" />
+
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+    </application>
+
+</manifest>

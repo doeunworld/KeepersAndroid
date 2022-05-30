@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/drawable/ic_launcher_background.xml" value="0.159" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_care_list.xml" value="0.27898550724637683" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_care_reg.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_login_success.xml" value="0.334375" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_logind.xml" value="0.334375" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_main2.xml" value="0.3111413043478261" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_monitor.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/activity_reg_success.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/app_bar_testtest.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/appbar.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/content_testtest.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/fragment_home.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/fragment_slideshow.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/header.xml" value="0.1503531786074672" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/info.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/intro_activity.xml" value="0.33" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/nav_header_testtest.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/layout/notification.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/menu/activity_main_drawer.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/menu/drawerlayout.xml" value="0.30439223697650664" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.169" />
+        <entry key="..\:/Users/smhrd/Desktop/Keepers_Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1945" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
